@@ -14,6 +14,8 @@
   * [Error Based SQL Injection Process](web-hacking-vulnerability-study/error-based-sql-injection/error-based-sql-injection-process.md)
 * [Blind SQL Injection](web-hacking-vulnerability-study/blind-sql-injection/README.md)
   * [Blind SQL Injection Process](web-hacking-vulnerability-study/blind-sql-injection/blind-sql-injection-process.md)
+* [SQL Injection Point](web-hacking-vulnerability-study/sql-injection-point/README.md)
+  * [SQL Injection Point 찾기](web-hacking-vulnerability-study/sql-injection-point/find-sqli.md)
 
 ## Web server development <a href="#web" id="web"></a>
 
