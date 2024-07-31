@@ -16,6 +16,23 @@
   * [Blind SQL Injection Process](web-hacking-vulnerability-study/blind-sql-injection/blind-sql-injection-process.md)
 * [SQL Injection Point](web-hacking-vulnerability-study/sql-injection-point/README.md)
   * [SQL Injection Point 찾기](web-hacking-vulnerability-study/sql-injection-point/find-sqli.md)
+  * [SQL Injection 대응 방법](web-hacking-vulnerability-study/sql-injection-point/sql-injection.md)
+* [XSS](web-hacking-vulnerability-study/xss/README.md)
+  * [Stored XSS](web-hacking-vulnerability-study/xss/stored-xss.md)
+  * [Reflected XSS](web-hacking-vulnerability-study/xss/reflected-xss.md)
+  * [cookie 탈취](web-hacking-vulnerability-study/xss/cookie.md)
+  * [DOM Based XSS](web-hacking-vulnerability-study/xss/dom-based-xss.md)
+  * [XSS 대응 방안](web-hacking-vulnerability-study/xss/xss.md)
+  * [XSS 대응 방안(오답)](web-hacking-vulnerability-study/xss/xss-1.md)
+  * [Client Script : javascript로 할 수 있는 여러가지](web-hacking-vulnerability-study/xss/client-script-javascript.md)
+* [CSRF](web-hacking-vulnerability-study/csrf/README.md)
+  * [CSRF XSS 연계 공격 (+iframe)](web-hacking-vulnerability-study/csrf/csrf-xss-+iframe.md)
+  * [CSRF 대응 방안](web-hacking-vulnerability-study/csrf/csrf.md)
+* [File Upload 공격 및 대응 방안](web-hacking-vulnerability-study/file-upload.md)
+* [File Upload 공격 (이중확장자)](web-hacking-vulnerability-study/file-upload-1.md)
+* [File Include 취약점 및 대응방안](web-hacking-vulnerability-study/file-include.md)
+* [File download 취약점](web-hacking-vulnerability-study/file-download.md)
+* [인증 / 인가 취약점](web-hacking-vulnerability-study/undefined.md)
 
 ## Web server development <a href="#web" id="web"></a>
 
